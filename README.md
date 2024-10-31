@@ -13,9 +13,8 @@ And View the Documentation at:
 ```
 http://localhost:5000/api-docs/
 ```
-'username: nia   |   username: sur   |   username: niati'
-'password: 1234  |   password: 6789  |   password: 5678'
-```
+username: nia   |   username: sur   |   username: niati
+password: 1234  |   password: 6789  |   password: 5678
 
 ***coba login***
 ![image](https://github.com/niasur/Task4/blob/main/img/login.PNG)
